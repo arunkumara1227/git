@@ -1,1 +1,2 @@
 # hi 
+# connecting to server 
